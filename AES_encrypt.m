@@ -1,5 +1,5 @@
 
-%to use the functions InvCipher and halfprecision use the code from here:
+%to use the functions Cipher and halfprecision use the code from here:
 %https://in.mathworks.com/matlabcentral/fileexchange/23173-ieee-754r-half-precision-floating-point-converter
 %https://in.mathworks.com/matlabcentral/fileexchange/73412-advanced-encryption-standard-aes-128-192-256
 
