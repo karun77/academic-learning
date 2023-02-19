@@ -1,4 +1,5 @@
 
+/*"The shape of waves of ships and ducks" is a Summer of Math Exposition video that possibly has similar content, will watch it some time*/
 
 /*created for p5.js*/
 
